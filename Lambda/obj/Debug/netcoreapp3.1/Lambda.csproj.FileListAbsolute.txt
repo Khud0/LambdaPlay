@@ -1,0 +1,11 @@
+C:\Files\C# Projects\LambdaSolution\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+C:\Files\C# Projects\LambdaSolution\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+C:\Files\C# Projects\LambdaSolution\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+C:\Files\C# Projects\LambdaSolution\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+C:\Files\C# Projects\LambdaSolution\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+C:\Files\C# Projects\LambdaSolution\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+C:\Files\C# Projects\LambdaSolution\Lambda\obj\Debug\netcoreapp3.1\Lambda.csprojAssemblyReference.cache
+C:\Files\C# Projects\LambdaSolution\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+C:\Files\C# Projects\LambdaSolution\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+C:\Files\C# Projects\LambdaSolution\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+C:\Files\C# Projects\LambdaSolution\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
