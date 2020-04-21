@@ -13,7 +13,8 @@ namespace Lambda
                 new LambdaOneArgument(),
                 new LambdaMultipleArguments(),
                 new LambdaNoArguments(),
-                new LambdaPracticalUse()
+                new LambdaFindAll(),
+                new LambdaLinqSelect()
             };
 
             foreach (ILambdaExecuter executer in executers)

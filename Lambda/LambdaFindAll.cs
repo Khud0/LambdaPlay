@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lambda
 {
-    class LambdaPracticalUse : ILambdaExecuter
+    class LambdaFindAll : ILambdaExecuter
     {
         public void Execute()
         {
